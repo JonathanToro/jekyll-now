@@ -15,6 +15,7 @@ After finding this out we decided to analyze what time of day were the stations 
 
 ![alt text]({{ site.baseurl }}/images/traffic_by_hour.png)
 
+![alt text]({{ site.baseurl }}/images/demographic.png)
 
 will finish tomorrow
 
