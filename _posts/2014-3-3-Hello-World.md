@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Optimizing staff allocation to produce the greatest exposure to target demographic
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For my first data science project I had to create a viable solution for a hypothetical scenario where an organization called WomenTechWomenYes (WTWY) is seeking advice to find interested individuals to partipate in their annual gala and to build awareness for their cause. They would place street teams at entrances to subway stations. The street teams would collect email addresses and those who sign up are sent free tickets to the gala.
+
+The MTA transit system of New York is enormous. To send staff to every subway station is impractical so my job was to find data online and to engage in exploratory data analysis to come up with recommendations of where to deploy WTWY's staff. My first hypothesis was to see where the biggest traffic of people occured. However, the people of New York is known to be extremely diverse where you can find virtually every personality that you can think of. So I thought to take the demographics around the train stations into account. Therefore, there were two parts of my analysis. One was to see the total traffic of each station and another was to analyze the demographics around each station. 
+
+My first step was to explore the MTA Turnstile data set that is provided on http://web.mta.info/developers/turnstile.html. My group decided to analyze all the data that was provided on the website which ranged from September 2016 to May 2010. However, we chose to only focus on the months leading up to the gala which was in June so we decided to only look at April, May, and June.
