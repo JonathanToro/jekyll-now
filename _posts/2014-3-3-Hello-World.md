@@ -11,7 +11,7 @@ My first step was to explore the MTA Turnstile data set that is provided on http
 
 ![alt text]({{ site.baseurl }}/images/traffic_by_month.png)
 
-After finding this out we decided to analyze what time of day were the stations seeing the most traffic. My hypothesis was that these stations were busy during the commuting hours 
+After finding this out we decided to analyze what time of day were the stations seeing the most traffic. My hypothesis was that these stations were busy during the commuting hours. The following graph confirmed my hypothesis.
 
 will finish tomorrow
 
