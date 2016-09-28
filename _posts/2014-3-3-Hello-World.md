@@ -15,3 +15,5 @@ My first step was to explore the MTA Turnstile data set that is provided on http
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
+![alt text][JonathanToro.github.io/images/traffic_by_month.png]
+
