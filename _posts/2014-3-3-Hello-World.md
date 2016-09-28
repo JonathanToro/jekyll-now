@@ -11,3 +11,5 @@ My first step was to explore the MTA Turnstile data set that is provided on http
 
 ![alt text]({{ site.baseurl }}/images/traffic_by_month.png)
 
+will finish tomorrow
+
