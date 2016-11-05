@@ -9,17 +9,17 @@ I started by scraping data from the <http://www.boxofficemojo.com/> and <http://
 
 I first looked at the distribution of the IMDB scores to determine which score thresholds were considered as high quality, average, and low quality films. The top 250 movies have a score higher than 8 which is where most of the classic movies have. Memorable movies have a score between 7 and 8. Mediocre movies have a score below 7. 
 
-![alt text]({{ site.baseurl }}/images/traffic_by_month.png)
+![alt text]({{ site.baseurl }}/images/Selection_016.png)
 
 After exploring the data set I saw that there were movies from all over the world. There were movies from India, China, Japan, Brazil, and many other countries. I was only interested in American films so I decided to remove them from my data set. This also took care all the different curriences that was in my data set, but only focusing on the dollar.
 
-![alt text]({{ site.baseurl }}/images/traffic_by_month.png)
+![alt text]({{ site.baseurl }}/images/Selection_019.png)
 
 I 
 
-![alt text]({{ site.baseurl }}/images/traffic_by_hour.png)
+![alt text]({{ site.baseurl }}/images/Selection_021.png)
 
 
-![alt text]({{ site.baseurl }}/images/demographic.png)
+![alt text]({{ site.baseurl }}/images/Selection_020.png)
 
 
