@@ -17,7 +17,7 @@ After exploring the data set I saw that there were movies from all over the worl
 
 I 
 
-![alt text]({{ site.baseurl }}/images/Selection_021.png)
+![alt text]({{ site.baseurl }}/images/Selection_025.png)
 
 
 ![alt text]({{ site.baseurl }}/images/Selection_024.png)
