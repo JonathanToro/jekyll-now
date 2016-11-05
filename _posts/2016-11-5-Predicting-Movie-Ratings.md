@@ -13,13 +13,13 @@ I first looked at the distribution of the IMDB scores to determine which score t
 
 After exploring the data set I saw that there were movies from all over the world. There were movies from India, China, Japan, Brazil, and many other countries. I was only interested in American films so I decided to remove them from my data set. This also took care all the different curriences that was in my data set, but only focusing on the dollar.
 
-![alt text]({{ site.baseurl }}/images/Selection_019.png)
+![alt text]({{ site.baseurl }}/images/Selection_022.png)
 
 I 
 
 ![alt text]({{ site.baseurl }}/images/Selection_021.png)
 
 
-![alt text]({{ site.baseurl }}/images/Selection_020.png)
+![alt text]({{ site.baseurl }}/images/Selection_024.png)
 
 
