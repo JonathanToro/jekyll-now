@@ -19,3 +19,5 @@ The chart below shows the distribution of obesity rates in the counties. The med
 ![alt text]({{ site.baseurl }}/images/Selection_030.png)
 
 ![alt text]({{ site.baseurl }}/images/Selection_031.png)
+
+![alt text]({{ site.baseurl }}/images/Selection_033.png)
