@@ -7,8 +7,10 @@ The graph below was made using d3.js and visualizes the counties obesity rates. 
 
 ![alt text]({{ site.baseurl }}/images/Selection_027.png) 
 
+The chart below shows the distribution of obesity rates in the counties. The median is around 24% and the mean is around the same.
 
 ![alt text]({{ site.baseurl }}/images/Selection_028.png)
+
 
 
 ![alt text]({{ site.baseurl }}/images/Selection_029.png)
