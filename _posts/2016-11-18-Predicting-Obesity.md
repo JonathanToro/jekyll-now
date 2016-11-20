@@ -16,9 +16,14 @@ Another visualization of the obesity rates by state.
 
 ![alt text]({{ site.baseurl }}/images/Selection_029.png)
 
-Combining all the data sets gave me around 500 features. There are only 3142 counties so I had to reduce the dimensionality of the data. I did so by adding random noise to the data and running a random forest several times to determine the most important features that contribute to obesity rates. 
+Combining all the data sets gave me around 500 features. There are only 3142 counties so I had to reduce the dimensionality of the data. I did so by adding random noise to the data and running a random forest several times to determine the most important features that contribute to obesity rates. We were left with around 20 features after this step. My next step was running all the classification algorithms with these 20 features. The graph below shows the ROC score of all the different models that were used. We can see that Ada Boosted Trees, Gradient Boosted Trees, and Logistic Regression all had a simliar performance. For sake of interpretability I decided to further my analysis with Logistic Regression.
+
 ![alt text]({{ site.baseurl }}/images/Selection_030.png)
 
+The chart below shows the confusion matrix for the logistic regression model. We can see that it performed generally well with both classes. THe precision and recall scores were both 0.71. The features that gave a county a higher probability of having a higher obesity rates were counties with high rates of no exercise, diabetes, primary care physician, poverty, Asian, toxic chemicals, recent drug use, females with heart disease, under 19, and white. The features that gave a lower probability of having a high obese rates were counties with high rates of few fruit and vegetables, black, ages 19-64, dentist rate, and depression.
+
 ![alt text]({{ site.baseurl }}/images/Selection_031.png)
+
+The graph below shows the predictions of the counties with the missing data along with the data from the training set. Orange means that the county has an obesity rate higher than the median. Brown means the counties have an obesity rate lower than the median.
 
 ![alt text]({{ site.baseurl }}/images/Selection_033.png)
