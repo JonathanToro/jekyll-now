@@ -20,7 +20,7 @@ Combining all the data sets gave me around 500 features. There are only 3142 cou
 
 ![alt text]({{ site.baseurl }}/images/Selection_030.png)
 
-The chart below shows the confusion matrix for the logistic regression model. We can see that it performed generally well with both classes. THe precision and recall scores were both 0.71. The features that gave a county a higher probability of having a higher obesity rates were counties with high rates of no exercise, diabetes, primary care physician, poverty, Asian, toxic chemicals, recent drug use, females with heart disease, under 19, and white. The features that gave a lower probability of having a high obese rates were counties with high rates of few fruit and vegetables, black, ages 19-64, dentist rate, and depression.
+The chart below shows the confusion matrix for the logistic regression model. We can see that it performed generally well with both classes. THe precision and recall scores were both 0.71. The features that gave a county a higher probability of having a higher obesity rates were counties with high rates of no exercise, diabetes, primary care physician, poverty, Asian, toxic chemicals, recent drug use, females with heart disease, under 19, and white. The features that gave a lower probability of having a high obese rates were counties with high rates of few fruit and vegetables, black, ages 19-64, dentist rate, and depression. These results can imply that educating people younger than 19 years about diet and exercise is an effective way of fighting obesity. In addition, race and culture has an affect on obesity. 
 
 ![alt text]({{ site.baseurl }}/images/Selection_031.png)
 
