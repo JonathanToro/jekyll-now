@@ -26,4 +26,4 @@ The chart below shows the confusion matrix for the logistic regression model. We
 
 The graph below shows the predictions of the counties with the missing data along with the data from the training set. Orange means that the county has an obesity rate higher than the median. Brown means the counties have an obesity rate lower than the median.
 
-![alt text]({{ site.baseurl }}/images/Selection_033.png)
+![alt text]({{ site.baseurl }}/images/Selection_033.png) 
